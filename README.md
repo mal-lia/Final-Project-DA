@@ -58,7 +58,7 @@ The main approach to this project is Exploratory Data Analysis (EDA).
 ```
 final-project-ousean-eda
  ┣ internship_participant_analysis.ipynb
- ┣ Internship_Registration_Form.csv
+ ┣ Internship Registration Form (Answer) - Aisyah.csv
  ┗ README.md
 ```
 
