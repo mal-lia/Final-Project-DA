@@ -55,10 +55,12 @@ The main approach to this project is Exploratory Data Analysis (EDA).
 - The WordPress Developer department attracted more male participants, indicating a gender preference in technical fields.
 
 ## 📁 **File Structure**  
+'''
 final-project-ousean-eda
- ┣ internship_participant_analysis.ipynb
+ ┣ Internship_Participant_Analysis.ipynb
  ┣ Internship Registration Form (Answer) - AM.csv
  ┗ README.md
+'''
 
 ## 🚀 **Conclusion**  
 This project illustrates how Exploratory Data Analysis (EDA) can uncover patterns in internship participant data and provide valuable insights to aid decision-making. The findings emphasize the importance of data cleaning and visualization in the data analysis process.
